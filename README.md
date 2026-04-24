@@ -201,7 +201,7 @@ pip install pandas xlrd
 2. Τοποθέτησε το αρχείο `imeres_exam.xls` στον ίδιο φάκελο με τον κώδικα
 3. Εκτέλεσε το πρόγραμμα:
 
-python exam_scheduler.py
+python main.py
 
 ---
 
